@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Notes Local Privary Policy
 
-You can use the [editor on GitHub](https://github.com/ajfurst/noteappsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**Privacy Policy**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Alexander Furst built the Notes Local app as a Free app. This SERVICE is provided by Alexander Furst at no cost and is intended for use as is.
 
-### Markdown
+This page is used to inform visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decided to use the Service.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you choose to use the Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that the Service collects is used for providing and improving the Service. The Service will not use or share your information with anyone except as described in this Privacy Policy.
 
-```markdown
-Syntax highlighted code block
+**Information Collection and Use**
 
-# Header 1
-## Header 2
-### Header 3
+For a better experience, while using the Service, the Service may require you to provide certain personally identifiable information. This information will be stored by Notes Local and will not be shared with any third-party.
 
-- Bulleted
-- List
+The app does not use third party services that may collect information used to identify you.
 
-1. Numbered
-2. List
+**Log Data**
 
-**Bold** and _Italic_ and `Code` text
+In a case of an error, the Service collects data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-[Link](url) and ![Image](src)
-```
+**Security**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The information stored by the Service will not be encrypted on the device. Any information that the Service transfers via the internet will do so via HTTPS protocol in order to ensure the data is sent securely and responsibly.
 
-### Jekyll Themes
+**Contact Us**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ajfurst/noteappsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions or suggestions about this Privacy Policy, do not hesitate to contact me at alexjfurst@gmail.com.
