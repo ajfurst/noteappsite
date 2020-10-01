@@ -2,9 +2,7 @@
 
 **Privacy Policy**
 
-Alexander Furst built the Notes Local app as a Free app. This SERVICE is provided by Alexander Furst at no cost and is intended for use as is.
-
-This page is used to inform visitors regarding the policies with the collection, use, and disclosure of Personal Information if anyone decided to use the Service.
+This page is used to inform visitors regarding the policies of the collection, use, and disclosure of Personal Information by the Notes Local application and service.
 
 If you choose to use the Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that the Service collects is used for providing and improving the Service. The Service will not use or share your information with anyone except as described in this Privacy Policy.
 
