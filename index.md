@@ -20,7 +20,7 @@ In a case of an error, the Service collects data and information (through third 
 
 **Security**
 
-The information stored by the Service will not be encrypted on the device. Any information that the Service transfers via the internet will do so via HTTPS protocol in order to ensure the data is sent securely and responsibly.
+The information stored by the application will not be encrypted on the device.
 
 **Contact Us**
 
